@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**endixk/endixk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=endixk&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endixk&theme=github_dark&layout=compact&hide_border=true" />
+</a>
 
-Here are some ideas to get you started:
+<!--hr>
+📌 Pinned repositories
+<br><br>
+<a href="https://github.com/endixk/ezaai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=endixk&repo=ezaai&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steineggerlab&repo=ufcg&theme=github_dark" />
+</a -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
