@@ -1,7 +1,14 @@
 ## Hi, I'm Daniel 👋
 
-### Skills
+### 🙋🏻‍♂️ Bio
+ * Ph.D. candidate in Bioinformatics at Seoul National University (2019-)
+ * B.S. in Biological Sciences, minor in Computer Sciences at Seoul National University (2015-2019)
+ * [Google Scholar](https://scholar.google.com/citations?user=1RUFYWQAAAAJ)
+ * [Curriculum Vitae](https://steineggerlab.com/en/files/CV_dongwook_kim.pdf)
 
+<hr>
+
+### 💪 Skills
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -9,7 +16,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <br>
@@ -24,21 +31,17 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### GitHub stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=endixk&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&hide_rank=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endixk&theme=github_dark&layout=compact&hide_border=true" />
-</a>
+<hr>
+
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=endixk&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&hide_rank=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endixk&theme=github_dark&layout=compact&hide_border=true)
 
 <!--hr>
-📌 Pinned repositories
-<br><br>
+### 📌 Pinned
 <a href="https://github.com/endixk/ezaai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=endixk&repo=ezaai&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steineggerlab&repo=ufcg&theme=github_dark" />
 </a -->
-
