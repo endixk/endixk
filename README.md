@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👋
 
-### 🙋🏻‍♂️ Bio
+### 👨‍💻 Bio
  * Ph.D. candidate in Bioinformatics at Seoul National University (2019-)
  * B.S. in Biological Sciences, minor in Computer Sciences at Seoul National University (2015-2019)
  * [Google Scholar](https://scholar.google.com/citations?user=1RUFYWQAAAAJ)
