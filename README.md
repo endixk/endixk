@@ -4,7 +4,7 @@
  * Ph.D. candidate in Bioinformatics at Seoul National University (2019-)
  * B.S. in Biological Sciences, minor in Computer Sciences at Seoul National University (2015-2019)
  * [Google Scholar](https://scholar.google.com/citations?user=1RUFYWQAAAAJ)
- * [Curriculum Vitae](https://github.com/endixk/personal-cv/blob/2f5e2f4179cbcf5292899fcdffdd506b94db5db7/CV_dongwook_kim.pdf)
+ * [Curriculum Vitae](https://github.com/endixk/personal-cv/blob/main/CV_dongwook_kim.pdf)
 
 <hr>
 
