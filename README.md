@@ -1,4 +1,4 @@
-## Hi, I'm Daniel 👋
+## Hi, I'm Dongwook 👋
 
 ### 👨‍💻 Bio
  * Ph.D. candidate in Bioinformatics at Seoul National University (2019-)
@@ -33,7 +33,7 @@
 
 <hr>
 
-### 📊 Stats
+### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=endixk&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&hide_rank=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endixk&theme=github_dark&layout=compact&hide_border=true)
 
