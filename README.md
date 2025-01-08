@@ -1,7 +1,9 @@
 ## Hi, I'm Dongwook 👋
 
 ### 👨‍💻 Bio
- * Ph.D. candidate in Bioinformatics at Seoul National University (2019-)
+ * Ph.D. in Bioinformatics at Seoul National University (2019-2025)
+   * [Lab of Evol. Bioinfo.](http://leb.snu.ac.kr) (2019-2021)
+   * [Steinegger Lab](https://steineggerlab.com) (2021-2025)
  * B.S. in Biological Sciences, minor in Computer Sciences at Seoul National University (2015-2019)
  * [Google Scholar](https://scholar.google.com/citations?user=1RUFYWQAAAAJ)
  * [Curriculum Vitae](https://github.com/endixk/personal-cv/blob/main/CV_dongwook_kim.pdf)
