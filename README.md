@@ -2,8 +2,8 @@
 
 ### 👨‍💻 Bio
  * Ph.D. in Bioinformatics at Seoul National University (2019-2025)
-   * [Lab of Evol. Bioinfo.](http://leb.snu.ac.kr) (2019-2021)
    * [Steinegger Lab](https://steineggerlab.com) (2021-2025)
+   * [Lab of Evol. Bioinfo.](http://leb.snu.ac.kr) (2019-2021)
  * B.S. in Biological Sciences, minor in Computer Sciences at Seoul National University (2015-2019)
  * [Google Scholar](https://scholar.google.com/citations?user=1RUFYWQAAAAJ)
  * [Curriculum Vitae](https://github.com/endixk/personal-cv/blob/main/CV_dongwook_kim.pdf)
@@ -31,7 +31,7 @@
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 <hr>
 
