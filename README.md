@@ -1,7 +1,7 @@
 ## Hi, I'm Dongwook 👋
 
 ### 👨‍💻 Bio
- * Postdoc at the [Comparative Genomics Group](https://lab.dessimoz.org), University of Lausanne (2025-)
+ * Postdoc at the [Comparative Genomics Group](https://comparative-genomics.ch), University of Lausanne (2025-)
  * Ph.D. in Bioinformatics at Seoul National University (2019-2025)
    * [Steinegger Lab](https://steineggerlab.com) (2021-2025)
    * [Lab of Evol. Bioinfo.](http://leb.snu.ac.kr) (2019-2021)
